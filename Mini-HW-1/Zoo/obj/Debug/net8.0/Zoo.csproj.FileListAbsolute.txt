@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\Mini-HW-1\Zoo\bin\Debug\net8.0\Zoo.deps.json
+C:\Users\david\source\repos\Mini-HW-1\Zoo\bin\Debug\net8.0\Zoo.dll
+C:\Users\david\source\repos\Mini-HW-1\Zoo\bin\Debug\net8.0\Zoo.pdb
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfo.cs
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.dll
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\refint\Zoo.dll
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\Zoo.pdb
+C:\Users\david\source\repos\Mini-HW-1\Zoo\obj\Debug\net8.0\ref\Zoo.dll

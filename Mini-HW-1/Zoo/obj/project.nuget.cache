@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lvr5I6mFabA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\Mini-HW-1\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
