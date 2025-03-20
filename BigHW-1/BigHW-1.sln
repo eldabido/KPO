@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigHW-1", "BigHW-1\BigHW-1.csproj", "{46290C1B-52A8-449D-9A3B-7FB0293E96BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HseBankLibrary", "HseBankLibrary\HseBankLibrary.csproj", "{C6D82997-A59D-47D6-BEBB-A6D62471654C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46290C1B-52A8-449D-9A3B-7FB0293E96BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46290C1B-52A8-449D-9A3B-7FB0293E96BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46290C1B-52A8-449D-9A3B-7FB0293E96BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46290C1B-52A8-449D-9A3B-7FB0293E96BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D82997-A59D-47D6-BEBB-A6D62471654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D82997-A59D-47D6-BEBB-A6D62471654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D82997-A59D-47D6-BEBB-A6D62471654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D82997-A59D-47D6-BEBB-A6D62471654C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {309BD7AA-EC5C-40F6-8A2C-0F9B0079BF35}
+	EndGlobalSection
+EndGlobal
