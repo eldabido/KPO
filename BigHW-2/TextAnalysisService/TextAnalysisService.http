@@ -1,0 +1,6 @@
+@TextAnalysisService_HostAddress = http://localhost:5183
+
+GET {{TextAnalysisService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
